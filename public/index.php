@@ -780,7 +780,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       Salvar Persona &nbsp;→
     </button>
     <p class="submit-note">Os dados são salvos no banco de dados PostgreSQL</p>
-    <p class="powered">Desenvolvido por <span>ApceX</span> · Tecnologia e estratégia</p>
+    <p class="powered">Desenvolvido por <span>ApceindX</span> · Tecnologia e estratégia</p>
   </div>
 
 </form>
